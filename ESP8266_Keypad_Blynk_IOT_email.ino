@@ -1,3 +1,4 @@
+//This code was made in September 2022, Since Blynk got updated to Blynk 2.0 some changes shall be made only in the Blynk part of the code
 #define BLYNK_PRINT Serial
 
 #include <ESP8266WiFi.h>
